@@ -1,0 +1,25 @@
+  {
+    "workbench.colorCustomizations": {
+      // /*Editor*/
+      "editor.background": "#12121200",
+      // /*Settings: Tabs*/
+      // // "tab.activeBackground": "#5a6b7a3c",
+      // "tab.activeBorder": "#e7e7e7",
+      // "tab.activeBorderTop": "#fffefe",
+      // "tab.hoverBackground": "#8d8888",
+      // // "tab.inactiveBackground": "#474747",
+      // "tab.activeForeground": "#f6f6f6",
+      // "tab.inactiveForeground": "#ffffff",
+      // /*Settings: Toolbar*/
+      // "toolbar.activeBackground": "#ca1717",
+      // /*Titlebar*/
+      // // "titleBar.activeBackground": "#000000",
+      // /*Sidebar*/
+      // // "sideBarTitle.background": "#474747",
+      // "sideBar.background": "#282727be",
+      // "sideBarSectionHeader.background": "#00343e",
+      // "sideBarTitle.foreground": "#18ddc2",
+      // /*General Texts*/
+      // "textLink.activeForeground": "#828382",
+    }
+  }
